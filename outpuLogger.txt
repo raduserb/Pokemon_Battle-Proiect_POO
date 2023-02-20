@@ -1,0 +1,346 @@
+Pre-battle stats:
+
+Pikachu
+HP: 35
+Attack: 0
+Special attack: 4
+Defense: 2
+Special defense: 3
+
+Jigglypuff
+HP: 34
+Attack: 4
+Special attack: 0
+Defense: 2
+Special defense: 3
+
+Stats after equipping items:
+
+Pikachu's items:
+Vitamine Scut Vesta
+
+Pikachu
+HP: 47
+Attack: 0
+Special attack: 6
+Defense: 4
+Special defense: 5
+
+Jigglypuff's items:
+Brad de Craciun Sabiuta Vesta
+
+Jigglypuff
+HP: 44
+Attack: 10
+Special attack: 0
+Defense: 3
+Special defense: 3
+
+ =====Preparation Battles=====
+
+
+Battle number 1
+
+Pikachu ability2 / Neutrel2 attack
+Pikachu HP: 47, cooldown: 5
+Neutrel2 HP: 16, cooldown: 0
+
+Pikachu specialAttack / Neutrel2 attack
+Pikachu HP: 47, cooldown: 4
+Neutrel2 HP: 11, cooldown: 0
+
+Pikachu specialAttack / Neutrel2 attack
+Pikachu HP: 47, cooldown: 3
+Neutrel2 HP: 6, cooldown: 0
+
+Pikachu specialAttack / Neutrel2 attack
+Pikachu HP: 47, cooldown: 2
+Neutrel2 HP: 1, cooldown: 0
+
+Pikachu specialAttack / Neutrel2 attack
+Pikachu HP: 47, cooldown: 1
+Neutrel2 HP: -4, cooldown: 0
+
+Pikachu won
+
+Pikachu got buffed
+
+Pikachu
+HP: 48
+Attack: 0
+Special attack: 7
+Defense: 5
+Special defense: 6
+Jigglypuff ability1 / Neutrel2 attack
+Neutrel2 got stunned
+Jigglypuff HP: 44, cooldown: 1
+Neutrel2 HP: 16, cooldown: 1
+
+Jigglypuff attack / Neutrel2 attack
+Jigglypuff HP: 43, cooldown: 1
+Neutrel2 HP: 7, cooldown: 1
+
+Jigglypuff attack / Neutrel2 attack
+Jigglypuff HP: 42, cooldown: 1
+Neutrel2 HP: -2, cooldown: 1
+
+Jigglypuff won
+
+Jigglypuff got buffed
+
+Jigglypuff
+HP: 45
+Attack: 11
+Special attack: 0
+Defense: 4
+Special defense: 4
+
+Battle number 2
+
+Pikachu specialAttack / Neutrel1 attack
+Pikachu HP: 48, cooldown: 0
+Neutrel1 HP: 4, cooldown: 0
+
+Pikachu ability2 / Neutrel1 attack
+Pikachu HP: 48, cooldown: 5
+Neutrel1 HP: 0, cooldown: 0
+
+Pikachu won
+
+Pikachu got buffed
+
+Pikachu
+HP: 49
+Attack: 0
+Special attack: 8
+Defense: 6
+Special defense: 7
+Jigglypuff attack / Neutrel1 attack
+Jigglypuff HP: 45, cooldown: 1
+Neutrel1 HP: 0, cooldown: 0
+
+Jigglypuff won
+
+Jigglypuff got buffed
+
+Jigglypuff
+HP: 46
+Attack: 12
+Special attack: 0
+Defense: 5
+Special defense: 5
+
+Battle number 3
+
+Pikachu specialAttack / Neutrel2 attack
+Pikachu HP: 49, cooldown: 4
+Neutrel2 HP: 13, cooldown: 0
+
+Pikachu specialAttack / Neutrel2 attack
+Pikachu HP: 49, cooldown: 3
+Neutrel2 HP: 6, cooldown: 0
+
+Pikachu specialAttack / Neutrel2 attack
+Pikachu HP: 49, cooldown: 2
+Neutrel2 HP: -1, cooldown: 0
+
+Pikachu won
+
+Pikachu got buffed
+
+Pikachu
+HP: 50
+Attack: 0
+Special attack: 9
+Defense: 7
+Special defense: 8
+Jigglypuff attack / Neutrel2 attack
+Jigglypuff HP: 46, cooldown: 2
+Neutrel2 HP: 9, cooldown: 2
+
+Jigglypuff ability1 / Neutrel2 attack
+Neutrel2 got stunned
+Jigglypuff HP: 46, cooldown: 2
+Neutrel2 HP: 5, cooldown: 2
+
+Jigglypuff attack / Neutrel2 attack
+Jigglypuff HP: 46, cooldown: 2
+Neutrel2 HP: -6, cooldown: 2
+
+Jigglypuff won
+
+Jigglypuff got buffed
+
+Jigglypuff
+HP: 47
+Attack: 13
+Special attack: 0
+Defense: 6
+Special defense: 6
+
+Battle number 4
+
+Pikachu specialAttack / Neutrel1 attack
+Pikachu HP: 50, cooldown: 1
+Neutrel1 HP: 2, cooldown: 0
+
+Pikachu specialAttack / Neutrel1 attack
+Pikachu HP: 50, cooldown: 0
+Neutrel1 HP: -6, cooldown: 0
+
+Pikachu won
+
+Pikachu got buffed
+
+Pikachu
+HP: 51
+Attack: 0
+Special attack: 10
+Defense: 8
+Special defense: 9
+Jigglypuff attack / Neutrel1 attack
+Jigglypuff HP: 47, cooldown: 2
+Neutrel1 HP: -2, cooldown: 0
+
+Jigglypuff won
+
+Jigglypuff got buffed
+
+Jigglypuff
+HP: 48
+Attack: 14
+Special attack: 0
+Defense: 7
+Special defense: 7
+
+Battle number 5
+
+Pikachu specialAttack / Neutrel2 attack
+Pikachu HP: 51, cooldown: 0
+Neutrel2 HP: 11, cooldown: 0
+
+Pikachu specialAttack / Neutrel2 attack
+Pikachu HP: 51, cooldown: 0
+Neutrel2 HP: 2, cooldown: 0
+
+Pikachu ability2 / Neutrel2 attack
+Pikachu HP: 51, cooldown: 5
+Neutrel2 HP: -2, cooldown: 0
+
+Pikachu won
+
+Pikachu got buffed
+
+Pikachu
+HP: 52
+Attack: 0
+Special attack: 11
+Defense: 9
+Special defense: 10
+Jigglypuff attack / Neutrel2 attack
+Jigglypuff HP: 48, cooldown: 5
+Neutrel2 HP: 7, cooldown: 5
+
+Jigglypuff attack / Neutrel2 attack
+Jigglypuff HP: 48, cooldown: 5
+Neutrel2 HP: -6, cooldown: 5
+
+Jigglypuff won
+
+Jigglypuff got buffed
+
+Jigglypuff
+HP: 49
+Attack: 15
+Special attack: 0
+Defense: 8
+Special defense: 8
+
+End of preparation battles
+
+
+Stats before main battle:
+
+Pikachu
+HP: 52
+Attack: 0
+Special attack: 11
+Defense: 9
+Special defense: 10
+
+Jigglypuff
+HP: 49
+Attack: 15
+Special attack: 0
+Defense: 8
+Special defense: 8
+
+=====Battle started=====
+
+
+Battle number 6
+
+Pikachu specialAttack / Jigglypuff ability1
+Pikachu got stunned
+Pikachu HP 48, cooldown: 0
+Jigglypuff HP 46, cooldown: 4
+
+Pikachu ability2 / Jigglypuff attack
+Pikachu dodged
+Pikachu HP 48, cooldown: 0
+Jigglypuff HP 46, cooldown: 3
+
+Pikachu specialAttack / Jigglypuff attack
+Pikachu HP 42, cooldown: 0
+Jigglypuff HP 43, cooldown: 2
+
+Pikachu specialAttack / Jigglypuff attack
+Pikachu HP 36, cooldown: 0
+Jigglypuff HP 40, cooldown: 1
+
+Pikachu specialAttack / Jigglypuff attack
+Pikachu HP 30, cooldown: 0
+Jigglypuff HP 37, cooldown: 0
+
+Pikachu ability2 / Jigglypuff ability1
+Pikachu dodged
+Pikachu HP 30, cooldown: 5
+Jigglypuff HP 33, cooldown: 4
+
+Pikachu specialAttack / Jigglypuff attack
+Pikachu HP 24, cooldown: 4
+Jigglypuff HP 30, cooldown: 3
+
+Pikachu specialAttack / Jigglypuff attack
+Pikachu HP 18, cooldown: 3
+Jigglypuff HP 27, cooldown: 2
+
+Pikachu specialAttack / Jigglypuff attack
+Pikachu HP 12, cooldown: 2
+Jigglypuff HP 24, cooldown: 1
+
+Pikachu specialAttack / Jigglypuff attack
+Pikachu HP 6, cooldown: 1
+Jigglypuff HP 21, cooldown: 0
+
+Pikachu specialAttack / Jigglypuff ability1
+Pikachu got stunned
+Pikachu HP 2, cooldown: 0
+Jigglypuff HP 18, cooldown: 4
+
+Pikachu ability1 / Jigglypuff attack
+Pikachu HP -4, cooldown: 0
+Jigglypuff HP 18, cooldown: 3
+
+Jigglypuff won
+
+Jigglypuff got buffed
+
+Jigglypuff
+HP: 50
+Attack: 16
+Special attack: 0
+Defense: 9
+Special defense: 9
+
+Ron is the winner
